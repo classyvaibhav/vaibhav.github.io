@@ -110,10 +110,16 @@ var projectsInfo = {
   "Website Spell Checker for Croatian websites": "https://github.com/feelqah/CroSiteSpellCheck"
 };
 
-var aboutmeInfo = "Embedded Software Engineer from Osijek, Croatia, with 5 years experience in Embedded and Automotive field and\n" +
-  "an extensive range of skills including software development, debugging, task automation and software testing.\n" +
-  "\nAlso, I volunteer at a local dog shelter and try to live eco-friendly as possible with a DIY mindset \n" +
-  "(always trying to build stuff from scratch, no matter the field).\n";
+var aboutmeInfo = "A result-oriented Electronics & Telecommunication Engineering student from Pune, India, with a strong foundation in \n" +
+  "Embedded C Programming, MATLAB, and Embedded Systems, along with demonstrated leadership skills through significant roles in \n" +
+  "academic and extracurricular activities.\n" +
+  "\n" +
+  "Proactive learner with a passion for DIY electronics projects and exploring new technologies. Committed to applying theoretical \n" +
+  "knowledge to practical applications, as evidenced by a range of academic projects, including Real Time Implementation of CAN Protocol, \n" +
+  "IoT-Based Industrial Automation, and Automated Bottle Filling & Capping System.\n" +
+  "\n" +
+  "I actively engage in DIY electronics projects, always trying to build stuff from scratch, and I also prioritize eco-friendly living.\n";
+
 
 var interestsInfo =
 "• Software Development\n" +
