@@ -69,9 +69,13 @@ var educationInfo =
 
 
 var projectsInfo = {
-  "Little Computer 3 Virtual Machine": "https://github.com/feelqah/LC3_VM",
-  "Simple 'Toy' Shell": "https://github.com/feelqah/ToyShell",
-  "Website Spell Checker for Croatian websites": "https://github.com/feelqah/CroSiteSpellCheck"
+  "Real Time Implementation of CAN Protocol": "#",
+  "Warehouse Management System Using CC-link Protocol Devices and STM32": "#",
+  "IOT Based Industrial Automation": "#",
+  "Weapon Detection and Alert System": "#",
+  "IOT Based Air Quality Monitoring System": "#",
+  "Face Recognition Based Attendance System Using ESP32 CAM": "#",
+  "Automated Bottle Filling & Capping System (Diploma Project)": "#"
 };
 
 var aboutmeInfo = "A result-oriented Electronics & Telecommunication Engineering student from Pune, India, with a strong foundation in \n" +
@@ -96,32 +100,31 @@ var interestsInfo =
 "• Everything DIY \n" +
 "• Permaculture gardening\n" +
 "• Cooking\n" +
-"• Hiking\n" +
 "• Animal Welfare \n" +
 "• Social Justice \n" +
 "• Activism\n";
 
 var contactInfo = [
-  "email: <a href='mailto :fmaric.os@gmail.com'>fmaric.os@gmail.com</a><br/>",
-  "phone: +385976472678 <br/>"
+  "email: <a href='mailto: Vaibhav.kawade@mitaoe.ac.in'>Vaibhav.kawade@mitaoe.ac.in</a><br/>",
+  "phone: +91 9130601015 <br/>"
 ];
 
 
 var specs =
 "<pre>" +
-"                   -`                    feelqah@github\n" +
-"                  .o+`                   OS: Arch Linux\n" +
-"                 `ooo/                   Kernel: x86_64 Linux 5.8.13-arch1-1\n" +
-"                `+oooo:                  Uptime: 1h 7m\n" +
-"               `+oooooo:                 Packages: 622\n" +
-"               -+oooooo+:                Shell: bash 5.0.18\n" +
-"             `/:-:++oooo+:               Resolution: 1920x1080\n" +
-"            `/++++/+++++++:              WM: i3\n" +
-"           `/++++++++++++++:             GTK Theme: Adwaita [GTK3]\n" +
-"          `/+++ooooooooooooo/`           Disk: 10G / 454G (3%)\n" +
-"         ./ooosssso++osssssso+`          CPU: Intel Pentium G860 @ 2x 3GHz [36.0°C]\n" +
-"        .oossssso-````/ossssss+`         GPU: AMD/ATI Cape Verde PRO [Radeon HD 7750/8740 / R7 250E]\n" +
-"       -osssssso.      :ssssssso.        RAM: 1145MiB / 7851MiB\n" +
+"                   -`                    classyvaibhav@github\n" +
+"                  .o+`                   OS: Microsoft Windows 11 Pro\n" +
+"                 `ooo/                   Version: 23H2\n" +
+"                `+oooo:                  Build Number: 22631\n" +
+"               `+oooooo:                 Uptime: 20h 29m\n" +
+"               -+oooooo+:                Resolution: 512x512\n" +
+"             `/:-:++oooo+:               CPU: AMD Ryzen 5 7600X @ 6x 5.01GHz\n" +
+"            `/++++/+++++++:              GPU: ASRock AMD Radeon RX 7600 XT Steel Legend 16GB OC\n" +
+"           `/++++++++++++++:             Disk: 150G / 512G\n" +
+"          `/+++ooooooooooooo/`           RAM: 16GB DDR5\n" +
+"         ./ooosssso++osssssso+`          Manufacturer: ASUS\n" +
+"        .oossssso-````/ossssss+`         Model: System Product Name\n" +
+"       -osssssso.      :ssssssso.        BIOS: American Megatrends Inc. 1807\n" +
 "      :osssssss/        osssso+++.\n" +
 "     /ossssssss/        +ssssooo/-\n" +
 "   `/ossssso+/:-        -:/+osssso+-\n" +
@@ -129,6 +132,7 @@ var specs =
 " `++:.                           `-/+/\n" +
 " .`                                 `"
 "</pre>";
+
 
 var files = {
   "/" : ["bin", "dev", "home", "lib64", "media", "opt", "root", "sbin", "sys", "usr", "boot", "etc", "lib", "lost+found", "mnt", "proc", "run", "srv", "tmp", "var"],
